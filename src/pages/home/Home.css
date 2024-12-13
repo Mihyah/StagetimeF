@@ -1,0 +1,290 @@
+.home-overlay{
+    width: 100%;
+    max-width: 1440px;
+   min-height: 180vh;
+    background-image: url("../../assets/aust.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+    position: absolute;
+    top: 0;
+}
+
+.back{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 5%;
+    position: absolute;
+    top: 12rem;
+}
+
+.impact{
+    color: #fff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.make{
+    color: #fff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 30px;
+    
+}
+.join{
+    width: 120px;
+    height: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    background-color: #fff;
+}
+.together{
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}
+.together p{
+    color: #fff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 17px;
+    text-align: center;
+}
+.play{
+    display: flex;
+    justify-content: center;
+    gap: .5rem;
+}
+
+.empty{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #F3F3F5; 
+    position: absolute;
+    top: 62rem;
+}
+.lor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+    gap: 2rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 17px;
+}
+
+.human{
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 2rem;
+    display: inline-flex;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 17px;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    gap: 5rem;
+    padding: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 17px;
+    
+}
+.span img{
+    width: 50px;
+}
+.spanwords{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.partners{
+    width: 100%;
+    min-height: 70vh;
+    background-color: #fff; 
+    position: absolute;
+    top: 119rem;
+}
+
+.partwords{
+    display: flex;
+    flex-direction: column;
+    margin: 80px;
+    gap: 2rem;
+    text-align: center;
+    align-items: center;
+}
+
+.partners h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.partners p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 30px;
+}
+
+.f1stpart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.s2ndpart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 30px;
+}
+
+.gallery{
+    width: 100%;
+    max-width: 1440px;
+    min-height: 100vh;
+    position: absolute;
+    top: 150rem;
+}
+
+.people{
+    width: 100%;
+    min-height: 120vh;
+    background-color: #F3F3F5; 
+    position: absolute;
+    top: 270rem;
+}
+.whatpeople{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 80px;
+    text-align: center;
+}
+
+.aco{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    padding: 50px;
+}
+.peoplewords{
+    width: 350px;
+    height: 300px;
+    background-color: #fff;
+    padding: 50px;
+    align-items: center;
+}
+.pcw{
+    width: 280px;
+    height: 100px;
+    background-color: #F3F3F5;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 35px -10px;
+    align-items: center;
+}
+.pcw img{
+    width: 50px;
+    height: 50px;
+}
+.pccw h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.ourblog{
+    width: 100%;
+    min-height: 180vh;
+    background-color: #fff; 
+    position: absolute;
+    top: 312rem;
+}
+
+.blog{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.vec{
+    width: 300px;
+}
+.our{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 2rem;
+    margin: 120px;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.lorem{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 20px;
+}
+.arrow{
+    position: absolute;
+    left: 23rem;
+}
+.arrow2{
+    position: absolute;
+    left: 23rem;
+}
+.arrow3{
+    position: absolute;
+    left: 700px;
+}
+.date{
+    color: #017297;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+.lo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 25px;
+    font-weight: bold;
+}
+.lorp{
+    margin: 30px;
+}
+.cardcont{
+    width: 300px;
+    height: 400px;
+}
+.cardgroup{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+.footer3{
+    position: relative;
+    top: 355rem;
+}
